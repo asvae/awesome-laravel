@@ -443,7 +443,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ##### Local User Groups
 
-* [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
+* [Laravel Russia](https://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
 * [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
 * [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/)) ([Telegram group](https://telegram.me/laravelbr))
